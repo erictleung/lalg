@@ -1,5 +1,7 @@
 # lalg
 
+[![Build Status](https://travis-ci.org/erictleung/lalg.svg?branch=master)](https://travis-ci.org/erictleung/lalg)
+
 Python library to experiment with Linear Algebra concepts
 
 `lalg` stands for "**L**inear **Alg**ebra."
