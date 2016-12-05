@@ -20,8 +20,8 @@ Python library to experiment with Linear Algebra concepts
 
 ## Prerequisites
 
-- [Python 3](https://www.python.org/)
-- [numpy](http://www.numpy.org/)
+- [Python](https://www.python.org/) (`>= 3.4.0`)
+- [numpy](http://www.numpy.org/) (`=> 1.11`)
 
 ## Installation
 
