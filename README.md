@@ -32,11 +32,11 @@ From the terminal
 ```sh
 $ git clone https://github.com/erictleung/lalg.git
 $ cd lalg
-$ python3
+$ python  # Python 3
 ```
 
 Then from within Python
 
 ```py
-import lalg
+>>> import lalg
 ```
