@@ -13,4 +13,7 @@ setup(name='lalg',
       author_email='eric@erictleung.com ',
       license='MIT',
       packages=['lalg'],
+      install_requires=[
+          'numpy'
+      ],
       zip_safe=False)
