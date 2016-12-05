@@ -34,3 +34,9 @@ $ git clone https://github.com/erictleung/lalg.git
 $ cd lalg
 $ python3
 ```
+
+Then from within Python
+
+```py
+import lalg
+```
