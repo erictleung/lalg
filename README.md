@@ -40,3 +40,13 @@ Then from within Python
 ```py
 >>> import lalg
 ```
+
+### Using Docker
+
+```sh
+$ git clone https://github.com/erictleung.lalg.git
+$ cd lalg
+$ docker build -t lalg .
+$ docker run --rm -it lalg bash
+$ python
+```
