@@ -17,5 +17,14 @@ class TestVectors(unittest.TestCase):
         """
         self.assertTrue(np.sum(nvect()) > 0)
 
+    def test_easy_good_dim(self):
+        """
+        Test easy shaping of array
+        """
+        newArray = [1, 2, 3, 4, 5, 6]
+        row = 2
+        col = 3
+        self.assertTrue(easy_vect(newArray, row, col).shape == (row, col))
+
 if __name__ == '__main__':
     unittest.main()
