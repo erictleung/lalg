@@ -7,6 +7,7 @@ python:
 env:
     - NUMPY_VER=1.11
 install:
+    - pip install --upgrade pip
     - pip install -q numpy==$NUMPY_VER
     - pip install .
 script: python -m unittest -v
