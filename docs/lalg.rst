@@ -1,6 +1,11 @@
 lalg package
 ============
 
+.. automodule:: lalg
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 Subpackages
 -----------
 
@@ -11,8 +16,8 @@ Subpackages
 Submodules
 ----------
 
-lalg.vectors module
--------------------
+lalg\.vectors module
+--------------------
 
 .. automodule:: lalg.vectors
     :members:
@@ -20,10 +25,3 @@ lalg.vectors module
     :show-inheritance:
 
 
-Module contents
----------------
-
-.. automodule:: lalg
-    :members:
-    :undoc-members:
-    :show-inheritance:
